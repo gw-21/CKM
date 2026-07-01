@@ -1,0 +1,7 @@
+variable,levels
+gender,0|1
+hypertension,0|1
+lunge,0|1
+marry,0|1
+ckm_stage,0|1|2|3
+edu,1|2|3|4
