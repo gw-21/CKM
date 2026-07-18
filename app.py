@@ -443,7 +443,7 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align:center; color:#95a5a6; font-size:0.8rem;">
     <strong>CKM Mortality Risk Prediction System v2.0</strong> |
-    Model: Cox Proportional Hazards (15-variable, z-scored) |
+    Model: Cox Proportional Hazards (11-variable) |
     Data Source: CHARLS Cohort (N=6,953) |
     C-index: 0.785 (Test Set)
 </div>
