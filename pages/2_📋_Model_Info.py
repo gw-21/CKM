@@ -1,6 +1,6 @@
 """
 Model Information Page — Performance Metrics, Feature Importance, Model Details
-Final 15-variable Cox PH model with raw continuous variables
+Final 11-variable Cox PH model with raw continuous variables
 """
 
 import streamlit as st
@@ -72,8 +72,8 @@ with col2:
 with col3:
     st.markdown("""
     <div class="metric-card">
-        <div class="value">15</div>
-        <div class="label">Coefficients</div>
+        <div class="value">11</div>
+        <div class="label">Features</div>
     </div>
     """, unsafe_allow_html=True)
 with col4:
