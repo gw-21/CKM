@@ -1,4 +1,4 @@
-parameter,scale_sd,scale_mean
+variable,scale_sd,scale_mean
 age,10.100403,60.425290
 bl_crp,7.502316,2.803987
 bl_cysc,0.280433,1.019416
