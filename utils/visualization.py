@@ -44,7 +44,7 @@ def create_survival_plot(patient_curve, baseline_curve):
         ),
         xaxis=dict(
             title="Follow-up Time (Years)",
-            range=[0, 10],
+            range=[0, 9],
             dtick=1,
             gridcolor="#ecf0f1",
         ),
